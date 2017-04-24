@@ -1,0 +1,1 @@
+Ejercicio con cajitas y output sacado con funcion en js.
